@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(182, 134, 236);
+}
+
+.page-body {
+  padding-left: 5%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+#header {
+  background-color: rgb(140, 64, 240);
+
+  padding-left: 5%;
+  padding-top: 1%;
+  padding-bottom: 0.5%;
+}
+
+#footer {
+  background-color: rgb(223, 129, 226);
+  text-align: center;
+
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+}

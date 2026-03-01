@@ -16,3 +16,24 @@ _site/
 # counterproductive to check this file into the repository.
 # Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
+
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Common
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+*.tmp
+*.swp
+*~
+
+# Local environment files
+.env
+.env.local
+.env.*.local
